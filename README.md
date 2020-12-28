@@ -27,12 +27,12 @@ Enter https://github.com/rbrunka/iobroker.notificationsForAndroidTV.git to URL o
 ## Changelog
 
 ### 0.0.1
-* (Author) initial release
+* (rbrunka) initial release
 
 ## License
 MIT License
 
-Copyright (c) 2020 Author <author@mail.com>
+Copyright (c) 2020 Roman Brunka <rbrunka@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
