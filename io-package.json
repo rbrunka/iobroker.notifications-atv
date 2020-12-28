@@ -1,0 +1,97 @@
+{
+    "common": {
+        "name": "Notifications For Android TV",
+        "version": "0.0.1",
+        "news": {
+            "0.0.1": {
+                "en": "initial release",
+                "de": "Erstveröffentlichung",
+                "ru": "Начальная версия",
+                "pt": "lançamento inicial",
+                "nl": "Eerste uitgave",
+                "fr": "Première version",
+                "it": "Versione iniziale",
+                "es": "Versión inicial",
+                "pl": "Pierwsze wydanie",
+                "zh-cn": "首次出版"
+            }
+        },
+        "title": "Notifications for Android TV",
+        "titleLang": {
+            "en": "Notifications for Android TV",
+            "de": "Notifications for Android TV",
+            "ru": "Notifications for Android TV",
+            "pt": "Notifications for Android TV",
+            "nl": "Notifications for Android TV",
+            "fr": "Notifications for Android TV",
+            "it": "Notifications for Android TV",
+            "es": "Notifications for Android TV",
+            "pl": "Notifications for Android TV",
+            "zh-cn": "Notifications for Android TV"
+        },
+        "desc": {
+            "en": "Notifications for Android TV or Fire TV",
+            "de": "Notifications for Android TV or Fire TV",
+            "ru": "Notifications for Android TV or Fire TV",
+            "pt": "Notifications for Android TV or Fire TV",
+            "nl": "Notifications for Android TV or Fire TV",
+            "fr": "Notifications for Android TV or Fire TV",
+            "it": "Notifications for Android TV or Fire TV",
+            "es": "Notifications for Android TV or Fire TV",
+            "pl": "Notifications for Android TV or Fire TV",
+            "zh-cn": "Notifications for Android TV or Fire TV"
+        },
+        "authors": [
+            "Roman Brunka <rbrunka@gmail.com>"
+        ],
+        "keywords": [
+            "ioBroker",
+            "template",
+            "Smart Home",
+            "home automation",
+            "Android TV",
+            "Fire TV"
+        ],
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "main": "main.js",
+        "icon": "template.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/rbrunka/ioBroker.notificationsForAndroidTV/master/admin/template.png",
+        "readme": "https://github.com/rbrunka/ioBroker.notificationsForAndroidTV/blob/master/README.md",
+        "loglevel": "info",
+        "mode": "daemon",
+        "type": "general",
+        "compact": true,
+        "materialize": true,
+        "materializeTab": true,
+        "adminTab": {
+            "singleton": true,
+            "name": {
+                "en": "Notifications for Android TV",
+                "de": "Notifications for Android TV",
+                "ru": "Notifications for Android TV",
+                "pt": "Notifications for Android TV",
+                "nl": "Notifications for Android TV",
+                "fr": "Notifications for Android TV",
+                "it": "Notifications for Android TV",
+                "es": "Notifications for Android TV",
+                "pl": "Notifications for Android TV",
+                "zh-cn": "Notifications for Android TV"
+            },
+            "link": "",
+            "fa-icon": "info"
+        },
+        "supportCustoms": true,
+        "dependencies": [
+            {
+                "js-controller": ">=2.0.0"
+            }
+        ]
+    },
+    "native": {
+        "ip_addr": "192.168.178.20"
+    },
+    "objects": [],
+    "instanceObjects": []
+}
