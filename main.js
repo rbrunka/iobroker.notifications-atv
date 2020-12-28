@@ -9,9 +9,10 @@
 const utils = require('@iobroker/adapter-core');
 
 // Load your modules here, e.g.:
-// const fs = require("fs");
+const fs = require("fs");
+const axios = require('axios');
 
-class Template extends utils.Adapter {
+class Notifications extends utils.Adapter {
 
     /**
      * @param {Partial<utils.AdapterOptions>} [options={}]
