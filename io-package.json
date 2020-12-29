@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "notificationsForAndroid",
+        "name": "iobroker.notificationsForAndroid",
         "version": "0.0.1",
         "news": {
             "0.0.1": {
