@@ -19,8 +19,7 @@ class Notifications extends utils.Adapter {
      */
     constructor(options) {
         super({
-            ...options,
-            name: 'template',
+            name: 'notifications-androidtv',
         });
         this.on('ready', this.onReady.bind(this));
         this.on('stateChange', this.onStateChange.bind(this));
@@ -161,8 +160,8 @@ if (module.parent) {
     /**
      * @param {Partial<utils.AdapterOptions>} [options={}]
      */
-    module.exports = (options) => new Template(options);
+    module.exports = (options) => new Notifications(options);
 } else {
     // otherwise start the instance directly
-    new Template();
+    new Notifications();
 }
