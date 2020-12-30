@@ -1,16 +1,16 @@
 ![Logo](admin/notificationsgit branch.png)
-# ioBroker.notificationsForAndroidTV
+# ioBroker.notifications-atv
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.notificationsForAndroidTV.svg)](https://www.npmjs.com/package/iobroker.template)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.notificationsForAndroidTV.svg)](https://www.npmjs.com/package/iobroker.template)
-![Number of Installations (latest)](http://iobroker.live/badges/notificationsForAndroidTV-installed.svg)
-![Number of Installations (stable)](http://iobroker.live/badges/notificationsForAndroidTV-stable.svg)
-[![Dependency Status](https://img.shields.io/david/rbrunka/iobroker.notificationsForAndroidTV.svg)](https://david-dm.org/rbrunka/iobroker.notificationsForAndroidTV)
-[![Known Vulnerabilities](https://snyk.io/test/github/rbrunka/ioBroker.notificationsForAndroidTV/badge.svg)](https://snyk.io/test/github/rbrunka/ioBroker.notificationsForAndroidTV)
+[![NPM version](http://img.shields.io/npm/v/iobroker.notifications-atv.svg)](https://www.npmjs.com/package/iobroker.template)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.notifications-atv.svg)](https://www.npmjs.com/package/iobroker.template)
+![Number of Installations (latest)](http://iobroker.live/badges/notifications-atv-installed.svg)
+![Number of Installations (stable)](http://iobroker.live/badges/notifications-atv-stable.svg)
+[![Dependency Status](https://img.shields.io/david/rbrunka/iobroker.notifications-atv.svg)](https://david-dm.org/rbrunka/iobroker.notifications-atv)
+[![Known Vulnerabilities](https://snyk.io/test/github/rbrunka/ioBroker.notifications-atv/badge.svg)](https://snyk.io/test/github/rbrunka/ioBroker.notifications-atv)
 
-[![NPM](https://nodei.co/npm/iobroker.notificationsForAndroidTV.png?downloads=true)](https://nodei.co/npm/iobroker.notificationsForAndroidTV/)
+[![NPM](https://nodei.co/npm/iobroker.notifications-atv.png?downloads=true)](https://nodei.co/npm/iobroker.notifications-atv/)
 
-**Tests:** ![Test and Release](https://github.com/rbrunka/ioBroker.notificationsForAndroidTV/workflows/Test%20and%20Release/badge.svg)
+**Tests:** ![Test and Release](https://github.com/rbrunka/ioBroker.notifications-atv/workflows/Test%20and%20Release/badge.svg)
 
 ## Adapter sending messages to Notifications for Android TV
 This adapter uses the Notifications for Android TV: https://play.google.com/store/apps/details?id=de.cyberdream.androidtv.notifications.google&hl=de&gl=US
@@ -22,7 +22,7 @@ Open ioBroker admin console
 Go to Adapters
 Click Githab icon "Install from custom URL"
 Change to CUSTOM tab.
-Enter https://github.com/rbrunka/iobroker.notificationsForAndroidTV.git to URL or file path and click INSTALL.
+Enter https://github.com/rbrunka/iobroker.notifications-atv.git to URL or file path and click INSTALL.
 
 ## Changelog
 
