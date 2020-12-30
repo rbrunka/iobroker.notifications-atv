@@ -1,12 +1,12 @@
 {
-  "name": "iobroker.notificationsForAndroidTV",
+  "name": "iobroker.notifications-atv",
   "version": "0.0.1",
   "description": "Notifications For Android TV or Fire TV",
   "author": {
     "name": "Roman Brunka",
     "email": "rbrunka@gmail.com"
   },
-  "homepage": "https://github.com/rbrunka/ioBroker.notificationsForAndroidTV",
+  "homepage": "https://github.com/rbrunka/ioBroker.notifications-atv",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbrunka/ioBroker.notificationsForAndroidTV"
+    "url": "https://github.com/rbrunka/ioBroker.notifications-atv"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.4.0"
@@ -54,7 +54,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/Author/ioBroker.template/issues"
+    "url": "https://github.com/Author/ioBroker.notifications-atv/issues"
   },
   "readmeFilename": "README.md"
 }

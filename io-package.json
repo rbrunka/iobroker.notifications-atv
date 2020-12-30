@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "iobroker.notificationsForAndroidTV",
+        "name": "notifications-atv",
         "version": "0.0.1",
         "news": {
             "0.0.1": {
